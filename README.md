@@ -5,3 +5,5 @@ client.java- this file contains the Socket class local IP and port number is pas
 and chating can be done between server and client.
 
 type "bye" to stop the chat between server and client
+
+Actually I have upgraded it but wasn't able to upload it on github. I made it somewhat like team viewer where screen can be shared between client and server. Also one can share file across client and server.
